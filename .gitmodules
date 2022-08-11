@@ -1,0 +1,3 @@
+[submodule "yxlsubmodules"]
+	path = yxlsubmodules
+	url = https://github.com/yinxiaolong-1123/e-charts.git
